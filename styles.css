@@ -1,1 +1,64 @@
 /*  your css code here. If applicable */
+* {
+	width: 1100px;
+	background-color: gray;
+}
+.imageContainer {
+	width: 800px;
+	height: 500px;
+}
+table {
+	border: 2px solid black;
+	border-collapse: collapse;
+    margin: auto;
+
+}
+.imageContainer #img1 {
+	width: 400px;
+	height: 450px;
+}
+.container {
+	width: 500px;
+	height: 500px;
+}
+#img2 {
+	width:200px;
+	height: 200px;
+}
+#img3 {
+	width:200px;
+	height: 200px;
+}
+td {
+    padding: 10px;
+    text-align: center;
+	border: 2px solid black;
+	
+}
+ol {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
+#img4 {
+	margin-top: 50px;
+	width:200px;
+	height: 200px;
+}
+#house {
+	width:200px;
+	height: 200px;
+	text-align:left;
+}
+#img5 {
+	width:200px;
+	height: 200px;
+	margin: 0px;
+	padding: 0px
+}
+#house2 {
+	width:200px;
+	height: 200px;
+	text-align:left;
+	
+}
